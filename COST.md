@@ -4,8 +4,6 @@ description: AWS Service Pricing Estimate
 
 Put a simplified version of cost analysis here. It is a bit tedious, but you'll have to manually copy/paste the data from excel into this table. Try to keep it short, with enough info to show how you got to the final price. It is much more convenient to edit this page on GitBook instead of inside a text editor.
 
-# 💸 Cost
-
 - Assumptions
   - assumption 1
   - assumption ...
@@ -20,8 +18,6 @@ Put a simplified version of cost analysis here. It is a bit tedious, but you'll 
 [Link to Full Pricing Spreadsheet](#)
 
 Example from Census Explorer:
-
-# 💸 Cost
 
 - Assumptions
   - 1000 User Sessions per Month
