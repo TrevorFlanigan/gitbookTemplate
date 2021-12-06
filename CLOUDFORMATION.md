@@ -2,6 +2,8 @@
 description: Description of Custom AWS Cloudformation Templates
 ---
 
+Add Custom CFN templates here if you made any. Please explain briefly what they do.
+
 # ☁ AWS CloudFormation Templates
 
 This template creates SSM Parameters to pass the names of the DynamoDB tables to the Backend ETL.
@@ -89,10 +91,7 @@ This template creates SSM Parameters to pass the names of the DynamoDB tables to
       ]
     },
     "AlwaysFalse": {
-      "Fn::Equals": [
-        "true",
-        "false"
-      ]
+      "Fn::Equals": ["true", "false"]
     }
   },
   "Outputs": {
@@ -103,6 +102,3 @@ This template creates SSM Parameters to pass the names of the DynamoDB tables to
   }
 }
 ```
-
-
-

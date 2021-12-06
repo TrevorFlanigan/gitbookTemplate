@@ -2,6 +2,10 @@
 description: Deploy this Solution into your AWS Account
 ---
 
+Put steps for deployment here. Separate into logical blocks in order to not overwhelm a reader.
+
+Example from Census Explorer:
+
 # ✈ Deployment
 
 **Step 1**
