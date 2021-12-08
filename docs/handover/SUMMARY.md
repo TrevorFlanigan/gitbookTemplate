@@ -13,7 +13,7 @@
 - [✈ Deployment](deployment/README.md)
   - [Frontend Deployment](deployment/frontend-deployment.md)
   - [Backend Deployment](deployment/backend-deployment.md)
-- [👩💻 Using the Solution](USAGE.md)
+- [👩‍💻 Using the Solution](USAGE.md)
 - [💁 Additional Resources](ADDITIONAL_RESOURCES.md)
 - [✏ Revisions](REVISIONS.md)
 - [📋 Contributors](CONTRIBUTORS.md)
